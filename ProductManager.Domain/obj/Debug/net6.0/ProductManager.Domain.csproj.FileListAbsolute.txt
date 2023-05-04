@@ -1,0 +1,17 @@
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Domain.deps.json
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Domain.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Domain.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.csproj.AssemblyReference.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.AssemblyInfoInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.AssemblyInfo.cs
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\refint\ProductManager.Domain.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ref\ProductManager.Domain.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Core.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Core.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\obj\Debug\net6.0\ProductManager.Domain.csproj.CopyComplete
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Infra.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Domain\bin\Debug\net6.0\ProductManager.Infra.pdb

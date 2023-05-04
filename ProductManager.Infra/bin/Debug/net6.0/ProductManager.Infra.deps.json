@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProductManager.Infra/1.0.0": {
+        "dependencies": {
+          "ProductManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProductManager.Infra.dll": {}
+        }
+      },
+      "ProductManager.Core/1.0.0": {
+        "runtime": {
+          "ProductManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductManager.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

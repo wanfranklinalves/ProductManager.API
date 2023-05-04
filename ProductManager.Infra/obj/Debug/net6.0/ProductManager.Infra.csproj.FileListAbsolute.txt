@@ -1,0 +1,15 @@
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\bin\Debug\net6.0\ProductManager.Infra.deps.json
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\bin\Debug\net6.0\ProductManager.Infra.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\bin\Debug\net6.0\ProductManager.Infra.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.csproj.AssemblyReference.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.AssemblyInfoInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.AssemblyInfo.cs
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.csproj.CoreCompileInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\refint\ProductManager.Infra.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ref\ProductManager.Infra.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\bin\Debug\net6.0\ProductManager.Core.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\bin\Debug\net6.0\ProductManager.Core.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Infra\obj\Debug\net6.0\ProductManager.Infra.csproj.CopyComplete

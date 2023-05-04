@@ -1,0 +1,12 @@
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\bin\Debug\net6.0\ProductManager.Core.deps.json
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\bin\Debug\net6.0\ProductManager.Core.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\bin\Debug\net6.0\ProductManager.Core.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.csproj.AssemblyReference.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.AssemblyInfoInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.AssemblyInfo.cs
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\refint\ProductManager.Core.dll
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.pdb
+C:\Users\wanfr\source\repos\ProductManager.API\ProductManager.Core\obj\Debug\net6.0\ref\ProductManager.Core.dll
