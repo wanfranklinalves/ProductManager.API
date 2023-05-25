@@ -1,14 +1,33 @@
+using System;
 using ProductManager.Domain.Interfaces;
 using ProductManager.Domain.Services;
 using ProductManager.Infra.Interfaces;
 using ProductManager.Infra.Repository;
+using Serilog;
+using Serilog.Events;
+using Serilog.Formatting.Compact;
+using Serilog.Extensions.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+var directory = Directory.GetCurrentDirectory();
+
+var logPath = Path.Combine(directory, "log.txt");
+
+if (!Directory.Exists(logPath))
+{
+    Directory.CreateDirectory(logPath);
+}
+
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Debug()
+    .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
+    .Enrich.FromLogContext()
+    .WriteTo.Console()
+    .WriteTo.File(new CompactJsonFormatter(), Path.Combine(logPath), rollingInterval: RollingInterval.Day)
+    .CreateLogger();
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -17,7 +36,6 @@ builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
